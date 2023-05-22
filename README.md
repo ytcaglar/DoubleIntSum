@@ -1,6 +1,6 @@
 ﻿# Double Int Sum | Beginner Level .Net Core Path [www.patika.dev]
 
-Hello, everyone. In this project, I tried to make a program that grouped the n integers taken from the screen (with spaces between them), grouped in pairs and squared the numbers if the numbers were the same, or took the sum of the numbers if the numbers were different and printed the results on the screen (with spaces between them).
+Hello, everyone. In this project, For each pair of numbers taken from the screen, I tried to make an application that takes the sum of the numbers if the numbers are the same, and the square of the sum of the numbers if they are different.
 
 ## Example : 
 
