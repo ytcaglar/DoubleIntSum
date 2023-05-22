@@ -1,0 +1,30 @@
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\bin\Debug\net7.0\Double_Sum.exe
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\bin\Debug\net7.0\Double_Sum.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\bin\Debug\net7.0\Double_Sum.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\bin\Debug\net7.0\Double_Sum.dll
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\bin\Debug\net7.0\Double_Sum.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\obj\Debug\net7.0\Double_Sum.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\obj\Debug\net7.0\Double_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\obj\Debug\net7.0\Double_Sum.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\obj\Debug\net7.0\Double_Sum.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\obj\Debug\net7.0\Double_Sum.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\obj\Debug\net7.0\Double_Sum.dll
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\obj\Debug\net7.0\refint\Double_Sum.dll
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\obj\Debug\net7.0\Double_Sum.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\obj\Debug\net7.0\Double_Sum.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\Double_Sum\obj\Debug\net7.0\ref\Double_Sum.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\bin\Debug\net7.0\Double_Sum.exe
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\bin\Debug\net7.0\Double_Sum.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\bin\Debug\net7.0\Double_Sum.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\bin\Debug\net7.0\Double_Sum.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\bin\Debug\net7.0\Double_Sum.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\obj\Debug\net7.0\Double_Sum.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\obj\Debug\net7.0\Double_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\obj\Debug\net7.0\Double_Sum.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\obj\Debug\net7.0\Double_Sum.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\obj\Debug\net7.0\Double_Sum.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\obj\Debug\net7.0\Double_Sum.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\obj\Debug\net7.0\refint\Double_Sum.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\obj\Debug\net7.0\Double_Sum.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\obj\Debug\net7.0\Double_Sum.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Double_Sum\obj\Debug\net7.0\ref\Double_Sum.dll
